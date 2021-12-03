@@ -102,7 +102,7 @@ public class LearnMap {
 				+ ":"+members.isEmpty());
 		
 		
-		
+		System.out.println(" Checking");
 		
 	}
 
